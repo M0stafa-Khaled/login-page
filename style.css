@@ -21,7 +21,7 @@ a {
 
 .image {
     width: 50%;
-    height: 100vh;
+    height: calc(100vh - 4px);
 }
 
 .image img {
